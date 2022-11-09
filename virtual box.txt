@@ -1,0 +1,18 @@
+https://www.virtualbox.org/wiki/Downloads
+Windows hosts---->Install
+
+git clone https://github.com/CyberCommunity03/Burp-Suite-Installation.git
+ls
+sudo apt-get update
+java --version
+sudo apt-cache search openjdk
+sudo apt-cache install -y openjdk-17-jdk
+sudo apt install openjdk-17-jdk 
+
+
+ls
+cd Burp-suite-Installation
+cd Burp-Suite-Installation 
+ls
+./Kali_Linux_Setup.sh 
+ls -lah
